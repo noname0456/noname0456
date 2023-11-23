@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-**noname0456/noname0456** 
-
 - 🔭 I’m currently working on a few different projects, including a new app and a website redesign.
 - 🌱 I’m currently learning advanced coding techniques and exploring new programming languages.
 - 👯 I’m looking to collaborate on exciting and innovative projects with other passionate developers.
