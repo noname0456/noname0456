@@ -5,7 +5,6 @@
 
 🕵️‍♂️ Currently specializing in cybersecurity. Presently (UAvsRU Cyberwar), my primary focus involves incident investigations, clandestine reconnaissance, and gathering information on hacker communities, with a thorough analysis of their activities.
 
-⚡ On a professional note, I maintain a keen interest in real-world cultures and enjoy taking on challenging projects. If you have any interesting opportunities, please don't hesitate to reach out. Looking forward to potential collaborations and knowledge exchange!
 
 
 
