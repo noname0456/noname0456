@@ -3,7 +3,7 @@
 
 🔐 Demonstrating strong DevOps skills, I adeptly manage Linux server administration, overseeing the deployment of various programs and assembly systems. 
 
-🕵️‍♂️ Currently specializing in cybersecurity. Presently (UAvsRU Cyberwar), my primary focus involves incident investigations, clandestine reconnaissance, and gathering information on hacker communities, with a thorough analysis of their activities.
+🕵️‍♂️ Currently specializing in cybersecurity. Presently (UA vs RU Cyberwar), my primary focus involves incident investigations, clandestine reconnaissance, and gathering information on hacker communities, with a thorough analysis of their activities.
 
 
 
